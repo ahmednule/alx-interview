@@ -1,0 +1,15 @@
+{
+  "name": "0x06-starwars_api",
+  "version": "1.0.0",
+  "description": "This project, \"0. Star Wars Characters,\" involves interacting with an external API to retrieve and display information about Star Wars characters based on a provided movie ID. Successfully completing this project requires a solid understanding of web programming fundamentals, API interaction, and asynchronous programming in JavaScript.",
+  "main": "0-starwars_characters.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
